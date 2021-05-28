@@ -15,7 +15,7 @@ Drag coefficient (b) = 50
 Desired velocity = 60 m/s
 ```
 # Results
-##Following graphs were obtained by choosing appropriate tuning parameters that give the system a rise time 
+Following graphs were obtained by choosing appropriate tuning parameters that give the system a rise time 
 (time it takes to reach 90% of the steady state value) of about 10secs and maximum overshoot of less
 than 5%. 
 
