@@ -1,5 +1,5 @@
 # Cruise-controller
-Designing of cruise control to follow a set point velocity using a PID Controller
+Implementation of linear control algorithm on dynamical model of the cruise control system of a car using PID Controller
 # Dynamics
 Neglecting the inertia of the wheels,
 and assuming that air drag (which is proportional to the car’s speed at low speeds) is what is
